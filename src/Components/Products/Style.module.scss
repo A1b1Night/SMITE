@@ -1,0 +1,67 @@
+.BodyContainer{
+    width: 90%;
+    margin: 5px auto;
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(6,1fr);
+    grid-template-rows: repeat(3,auto);
+
+    .Filtro{
+        background-color: rgb(198, 201, 226);
+        padding: 20px;
+        border-radius: 4px;
+        
+    }
+
+    .Titulo{
+      padding:2px
+    }
+
+    .productContainer{
+        background-color: rgb(198, 201, 226);
+        padding: 3px;
+        border-radius: 4px;
+        grid-column: span 5;
+        display: flex;
+        text-align: center;
+        align-items: center;
+        flex-wrap: wrap;
+        flex-direction: row; 
+        margin: 0 auto;
+    }
+
+    .product{
+        font-weight: bold;
+        width: 240px;
+        height: auto;
+        margin: 5px;
+    }
+
+        img{
+            width: 100%;
+        }
+        P{
+            font-weight: bold;
+            text-align: initial;
+        }
+
+        button{
+            border: none;
+            border-radius: 3px;
+            margin: 8px;
+            padding: 5px 8px;
+            cursor: pointer;
+        }
+
+        button:hover{
+            background-color: #cecece;
+        }
+
+        li{
+            list-style: none;
+        }
+
+        ul{
+            padding: 0;
+        }
+}

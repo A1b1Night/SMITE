@@ -1,0 +1,46 @@
+export const ProductsData = [
+
+    {
+        id:1,
+        price:10,
+        amount:0,
+        name:"Hamburguesa",
+        img:"https://image.freepik.com/vector-gratis/ilustracion-icono-dibujos-animados-hamburguesa-queso_138676-2450.jpg",
+    },
+    {
+        id:2,
+        price:10,
+        amount:0,
+        name:"Hamburguesa",
+        img:"https://image.freepik.com/vector-gratis/ilustracion-icono-dibujos-animados-hamburguesa-queso_138676-2450.jpg",
+    },
+    {
+        id:3,
+        price:10,
+        amount:0,
+        name:"Hamburguesa",
+        img:"https://image.freepik.com/vector-gratis/ilustracion-icono-dibujos-animados-hamburguesa-queso_138676-2450.jpg",
+    },
+    {
+        id:4,
+        price:10,
+        amount:0,
+        name:"Hamburguesa",
+        img:"https://image.freepik.com/vector-gratis/ilustracion-icono-dibujos-animados-hamburguesa-queso_138676-2450.jpg",
+    },
+    {
+        id:5,
+        price:10,
+        amount:0,
+        name:"Hamburguesa",
+        img:"https://image.freepik.com/vector-gratis/ilustracion-icono-dibujos-animados-hamburguesa-queso_138676-2450.jpg",
+    },
+    {
+        id:6,
+        price:10,
+        amount:0,
+        name:"Hamburguesa",
+        img:"https://image.freepik.com/vector-gratis/ilustracion-icono-dibujos-animados-hamburguesa-queso_138676-2450.jpg",
+    },
+
+];

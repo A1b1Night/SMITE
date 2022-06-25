@@ -1,0 +1,31 @@
+
+        .MainContainer{
+            padding: 4% 12%;
+            margin-top: 32px;
+            width: 100%;
+            display: flex;
+            align-items: center;
+        }
+
+        .ProductPreview{
+            width: 50%;
+        }
+
+        .ProductPreview > img{
+            width: 100%;
+        }
+
+        .Descripcion{
+            width: 50%;
+        }
+
+        .Titulo{
+            font-size: 48px;
+            font-weight: 600;
+        }
+
+        .ProductDescription{
+            font-size: 20px;
+            color: rgb(0 , 0 , 0 , 0.8);
+            margin-bottom: 16px;
+        }
